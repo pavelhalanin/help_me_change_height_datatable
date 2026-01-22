@@ -51,7 +51,7 @@ $(document).ready(function () {
             },
 
         ],
-        scrollY: "500px",
+        scrollY: "calc(100vh - 200px)",
         // scrollCollapse: true,
         scroller: true,
         paging: false,
